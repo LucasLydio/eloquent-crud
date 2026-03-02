@@ -1,4 +1,4 @@
-````md
+
 # User CRUD with Profile — Laravel + Eloquent
 
 Tech documentation for a **CRUD system** that manages **Users** and their **Profile** using **Laravel + Eloquent ORM**.
@@ -26,7 +26,7 @@ This project satisfies the practical requirements:
 php -v
 php artisan --version
 composer --version
-````
+
 
 ---
 
