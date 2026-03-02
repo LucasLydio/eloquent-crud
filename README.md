@@ -22,13 +22,14 @@ This project satisfies the practical requirements:
 - **Database:** MySQL / PostgreSQL / SQLite
 
 > Replace the versions after installation using:
+
 ```bash
 php -v
 php artisan --version
 composer --version
 
 
----
+```
 
 ## 2. Project Setup
 
